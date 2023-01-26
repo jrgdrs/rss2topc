@@ -1,0 +1,30 @@
+{
+  "name": "rss2topic",
+  "version": "1.0.0",
+  "description": "Creates topics in Swing based on items of an RSS feed using EDAPI",
+  "main": "rss2topic.bat",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "rss2topic"
+  },
+  "keywords": [
+    "eidosmedia",
+    "swing",
+    "topicplanning",
+    "rss",
+    "edapi"
+  ],
+  "author": "joerg.drees@eidosmedia.com",
+  "license": "MIT",
+  "dependencies": {
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "node-fetch": "2.6.8",
+    "unfluff": "^3.2.0",
+    "xslt3": "^2.5.0"
+  }
+}

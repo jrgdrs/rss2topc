@@ -1,0 +1,12 @@
+node_modules
+tmp
+alt
+config/methode/demode/.token.txt
+config/methode/demode/instance.json
+js/imageSearch.js
+js/ImageList.xml
+google/test.js
+js/image2.js
+js/getWebpage.js
+js/getImage.js
+
