@@ -1,0 +1,9 @@
+{
+    "hostname": "prime.demode.eidosmedia.io",
+    "port": "8301",
+    "path": "/swing/api/rest",
+    "connectionId": "Methode Express Aggregation",
+    "applicationId": "rss2topic",
+    "username": "***",
+    "password": "***"
+}
